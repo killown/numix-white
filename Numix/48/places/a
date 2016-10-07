@@ -1,0 +1,2 @@
+for j in grey-*; do mv -v -- "$j" "$default-{j%}"; done 
+
