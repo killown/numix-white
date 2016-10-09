@@ -38,12 +38,12 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="23.623425"
+     inkscape:cx="10.535957"
      inkscape:cy="20.234658"
      inkscape:window-x="57"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g31" />
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
@@ -98,10 +98,11 @@
        id="path17" />
   </g>
   <g
-     id="g19">
+     id="g19"
+     style="fill:#e6e6e6;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#f2f2f2;fill-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1"
        id="path21" />
   </g>
   <g

@@ -11,7 +11,7 @@
    id="svg4573"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="Terminal.svg">
+   sodipodi:docname="gnome-terminal.svg">
   <metadata
      id="metadata4624">
     <rdf:RDF>
@@ -32,15 +32,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1861"
-     inkscape:window-height="1024"
+     inkscape:window-width="1863"
+     inkscape:window-height="1021"
      id="namedview4622"
      showgrid="false"
      inkscape:zoom="17.3125"
-     inkscape:cx="24"
+     inkscape:cx="13.487365"
      inkscape:cy="24"
-     inkscape:window-x="59"
-     inkscape:window-y="28"
+     inkscape:window-x="57"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4573" />
   <defs
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g4590"
-     style="fill:#f2f2f2">
+     style="fill:#e6e6e6;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#f2f2f2;fill-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1"
        id="path4592" />
   </g>
   <g
