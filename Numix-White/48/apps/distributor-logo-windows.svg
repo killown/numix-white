@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="distributor-logo-windows.svg">
+   sodipodi:docname="winusb.svg">
   <metadata
      id="metadata55">
     <rdf:RDF>
@@ -76,41 +76,45 @@
   </g>
   <g
      transform="matrix(0,-1,1,0,0,48)"
-     style="fill:#999999;fill-opacity:1"
+     style="fill:#ececec;fill-opacity:1"
      id="g19">
     <path
        d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z"
        id="path21"
-       style="fill:#999999" />
+       style="fill:#ececec;fill-opacity:1" />
   </g>
   <g
-     id="g23">
+     id="g23"
+     style="fill:#666666">
     <g
-       id="g25">
+       id="g25"
+       style="fill:#666666">
       <g
          transform="translate(1,1)"
-         id="g27">
+         id="g27"
+         style="fill:#666666">
         <g
-           style="opacity:0.1"
+           style="opacity:0.1;fill:#666666"
            id="g29">
           <!-- color: #eeeeee -->
           <g
-             id="g31">
+             id="g31"
+             style="fill:#666666">
             <path
                d="m 34 14 l 0 9 l -9 0 l 0 -9 m 9 0"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
                id="path33" />
             <path
                d="m 14 14 l 9 0 l 0 9 l -9 0 m 0 -9"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
                id="path35" />
             <path
                d="m 23 25.02 l 0 9 l -9 0 l 0 -9 m 9 0"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
                id="path37" />
             <path
                d="m 25.02 25.02 l 9 0 l 0 9 l -9 0 m 0 -9"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
                id="path39" />
           </g>
         </g>
@@ -119,19 +123,19 @@
   </g>
   <path
      d="m 34 14 0 9 -9 0 0 -9 m 9 0"
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"
+     style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
      id="path41" />
   <path
      d="m 14 14 9 0 0 9 -9 0 m 0 -9"
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"
+     style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
      id="path43" />
   <path
      d="m 23 25.02 0 9 -9 0 0 -9 m 9 0"
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"
+     style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
      id="path45" />
   <path
      d="m 25.02 25.02 9 0 0 9 -9 0 m 0 -9"
-     style="fill:#f9f9f9;fill-opacity:1;stroke:none;fill-rule:nonzero"
+     style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
      id="path47" />
   <g
      id="g49">
