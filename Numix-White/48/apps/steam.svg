@@ -11,7 +11,7 @@
    id="svg5630"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="10B4_steam.0.svg">
+   sodipodi:docname="steam-launcher.svg">
   <metadata
      id="metadata5685">
     <rdf:RDF>
@@ -37,7 +37,7 @@
      id="namedview5683"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-5.5932202"
      inkscape:cy="24"
      inkscape:window-x="57"
      inkscape:window-y="31"
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g5647"
-     style="fill:#e6e6e6">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path5649" />
   </g>
   <g

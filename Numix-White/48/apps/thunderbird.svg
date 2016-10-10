@@ -5,7 +5,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    viewBox="0 0 48 48"
@@ -45,30 +44,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
-     id="defs4">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient4202">
-      <stop
-         style="stop-color:#ffd59a;stop-opacity:1;"
-         offset="0"
-         id="stop4204" />
-      <stop
-         style="stop-color:#ffdeaf;stop-opacity:1"
-         offset="1"
-         id="stop4206" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4202"
-       id="linearGradient4208"
-       x1="1"
-       y1="24"
-       x2="47"
-       y2="24"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0,-1,1,0,0,48)" />
-  </defs>
+     id="defs4" />
   <g
      id="g11">
     <path
@@ -87,7 +63,7 @@
   <path
      inkscape:connector-curvature="0"
      id="path21"
-     style="fill:url(#linearGradient4208);fill-opacity:1"
+     style="fill:#ececec;fill-opacity:1"
      d="M 1,24 C 1,11.297 11.297,1 24,1 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 Z" />
   <g
      id="g23">
