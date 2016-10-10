@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="virtualbox-bin.svg">
+   sodipodi:docname="virtualbox-ose.svg">
   <metadata
      id="metadata53">
     <rdf:RDF>
@@ -42,7 +42,7 @@
      inkscape:window-x="57"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g41" />
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g19"
-     style="fill:#e6e6e6;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path21" />
   </g>
   <g
