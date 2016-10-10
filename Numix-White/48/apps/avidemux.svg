@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="avidemux.svg">
+   sodipodi:docname="vidiot.svg">
   <metadata
      id="metadata63">
     <rdf:RDF>
@@ -77,7 +77,7 @@
   </g>
   <path
      d="M 3.813,13.001 C 2.03,16.269 1,20.021 1,24.001 c 0,3.985 1.03,7.732 2.813,11 C 6,36 42,36 44.193,35.001 c 1.783,-3.268 2.813,-7.02 2.813,-11 0,-3.985 -1.03,-7.732 -2.813,-11 C 42,12 6,12 3.813,13.001 Z"
-     style="fill:#e6e6e6;fill-opacity:1"
+     style="fill:#ececec;fill-opacity:1"
      id="path19" />
   <g
      id="g21">

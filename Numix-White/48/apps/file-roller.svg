@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="accessories-archiver.svg">
+   sodipodi:docname="utilities-file-archiver.svg">
   <metadata
      id="metadata55">
     <rdf:RDF>
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g19"
-     style="fill:#e6e6e6">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path21" />
   </g>
   <g
@@ -101,7 +101,7 @@
        id="g31">
       <path
          d="m 4.198 3.104 c -0.139 0 -0.247 0.108 -0.247 0.247 l 0 6.844 c 0 0.139 0.108 0.247 0.247 0.247 l 5.151 0 c 0.139 0 0.247 -0.108 0.247 -0.247 l 0 -5.398 -1.693 -1.693"
-         style="fill:#333333;fill-opacity:1;stroke:none;fill-rule:nonzero"
+         style="fill:#008000;fill-opacity:1;stroke:none;fill-rule:nonzero"
          id="path33" />
       <path
          d="m 7.902 3.104 0 1.693 1.693 0"
