@@ -11,7 +11,7 @@
    id="svg14411"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gnome-settings.svg">
+   sodipodi:docname="gnome-control-center.svg">
   <metadata
      id="metadata14468">
     <rdf:RDF>
@@ -77,7 +77,7 @@
   </g>
   <g
      id="g14428"
-     style="fill:#ececec">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
        style="fill:#ececec;fill-opacity:1"

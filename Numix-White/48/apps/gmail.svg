@@ -11,7 +11,7 @@
    id="svg17931"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="gmail.svg">
+   sodipodi:docname="gmail-notify-icon.svg">
   <metadata
      id="metadata17988">
     <rdf:RDF>
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g17948"
-     style="fill:#e6e6e6">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path17950" />
   </g>
   <g
