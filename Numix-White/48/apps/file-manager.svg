@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="xfce-filemanager.svg">
+   sodipodi:docname="nautilus-actions-config-tool.svg">
   <metadata
      id="metadata41">
     <rdf:RDF>
@@ -38,7 +38,7 @@
      id="namedview39"
      showgrid="false"
      inkscape:zoom="13.906433"
-     inkscape:cx="10.535957"
+     inkscape:cx="0.073173337"
      inkscape:cy="20.234658"
      inkscape:window-x="57"
      inkscape:window-y="31"
@@ -97,14 +97,11 @@
        style="opacity:0.2"
        id="path17" />
   </g>
-  <g
-     id="g19"
-     style="fill:#ececec;fill-opacity:1">
-    <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#ececec;fill-opacity:1"
-       id="path21" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     id="path21"
+     style="fill:#ececec;fill-opacity:1"
+     d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z" />
   <g
      id="g23">
     <path

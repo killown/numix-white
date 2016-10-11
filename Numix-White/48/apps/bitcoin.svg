@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="bitcoin-qt.svg">
+   sodipodi:docname="bitcoin.svg">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -37,7 +37,7 @@
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="1.8471724e-08"
+     inkscape:cx="18.698153"
      inkscape:cy="24"
      inkscape:window-x="57"
      inkscape:window-y="31"
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g19"
-     style="fill:#cccccc;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#cccccc;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path21" />
   </g>
   <g
