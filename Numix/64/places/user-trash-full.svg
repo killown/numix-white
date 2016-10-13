@@ -13,8 +13,8 @@
    height="64"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="user-trash.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="gnome-dev-trash-full.svg">
   <metadata
      id="metadata20">
     <rdf:RDF>
@@ -249,9 +249,9 @@
      inkscape:window-height="1052"
      id="namedview16"
      showgrid="true"
-     inkscape:zoom="14.938648"
-     inkscape:cx="15.393444"
-     inkscape:cy="52.115998"
+     inkscape:zoom="5.2816097"
+     inkscape:cx="-38.811878"
+     inkscape:cy="33.279306"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -289,9 +289,9 @@
      height="49"
      width="40"
      id="rect3054"
-     style="fill:#f07a64;fill-opacity:1;stroke:none" />
+     style="fill:#cccccc;fill-opacity:1;stroke:none" />
   <path
-     style="fill:#f07a64;fill-opacity:1;stroke:none"
+     style="fill:#cccccc;fill-opacity:1;stroke:none"
      d="M 24,2 C 22.470588,2 21,3.6215756 21,5.243198 L 21,14 l 0.294118,2.972932 3.058824,0 L 26,13.729688 26,8.4864428 C 26,6.8648204 27.411765,5 28.941177,5 l 6.117647,0 C 36.588236,5 38,6.8648204 38,8.4864428 l 0,5.2432452 0,3.243244 4.705883,0 L 43,14 43,5 C 43,3.3783776 41.529411,2 40,2 z"
      id="path3861"
      inkscape:connector-curvature="0"
