@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,8 +40,8 @@
      id="namedview5765"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-60.162106"
-     inkscape:cy="23.084745"
+     inkscape:cx="-59.921662"
+     inkscape:cy="22.77966"
      inkscape:window-x="57"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
@@ -155,7 +155,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.35771561px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ff9f2a;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1;"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:51.35771561px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;opacity:1;"
      x="6.6943908"
      y="42.356339"
      id="text4193"
@@ -165,5 +165,5 @@
        id="tspan4195"
        x="6.6943908"
        y="42.356339"
-       style="fill:#ff9f2a;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;">x</tspan></text>
+       style="fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;">x</tspan></text>
 </svg>
