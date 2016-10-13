@@ -12,7 +12,7 @@
    id="svg4426"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="text-editor.svg">
+   sodipodi:docname="gedit.svg">
   <metadata
      id="metadata4488">
     <rdf:RDF>
@@ -39,11 +39,11 @@
      showgrid="false"
      inkscape:zoom="17.3125"
      inkscape:cx="24"
-     inkscape:cy="23.913357"
+     inkscape:cy="23.826714"
      inkscape:window-x="57"
      inkscape:window-y="31"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4426" />
+     inkscape:current-layer="g4465" />
   <defs
      id="defs4428">
     <linearGradient
@@ -122,7 +122,7 @@
          id="g4465">
         <path
            d="M 15.875,11 C 15.383,11 15,11.383 15,11.875 l 0,24.25 C 15,36.617 15.383,37 15.875,37 l 18.25,0 C 34.617,37 35,36.617 35,36.125 l 0,-20.12 -5,-5 m -14.12,0"
-           style="fill:#333333;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#999999;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path4467" />
         <path
            d="m 17 29 10 0 0 -2 -10 0 m 0 2"
