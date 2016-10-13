@@ -40,7 +40,7 @@
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g31" />
   <defs
      id="defs4">
     <linearGradient
@@ -97,7 +97,7 @@
       <path
          inkscape:connector-curvature="0"
          d="m 4.198,3.104 c -0.139,0 -0.247,0.108 -0.247,0.247 l 0,6.844 c 0,0.139 0.108,0.247 0.247,0.247 l 5.151,0 c 0.139,0 0.247,-0.108 0.247,-0.247 l 0,-5.398 -1.693,-1.693"
-         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         style="fill:#008000;fill-opacity:0.54929578;fill-rule:nonzero;stroke:none"
          id="path33" />
       <path
          inkscape:connector-curvature="0"

@@ -37,7 +37,7 @@
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-13.016949"
      inkscape:cy="24"
      inkscape:window-x="57"
      inkscape:window-y="31"
@@ -107,17 +107,17 @@
   </g>
   <g
      id="g35"
-     style="fill:#800080">
+     style="fill:#800080;fill-opacity:0.54929578">
     <g
        id="g37"
-       style="fill:#800080">
+       style="fill:#800080;fill-opacity:0.54929578">
       <!-- color: #a270cc -->
       <g
          id="g39"
-         style="fill:#800080">
+         style="fill:#800080;fill-opacity:0.54929578">
         <path
            d="M 18 12 L 18 36 L 36 24 M 18 12 "
-           style="fill:#800080;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#800080;fill-opacity:0.54929578;stroke:none;fill-rule:nonzero"
            id="path41" />
       </g>
     </g>
