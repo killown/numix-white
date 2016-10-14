@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="default-folder-google-drive.svg"
+   sodipodi:docname="folder-google-drive.svg"
    width="48"
    height="48">
   <metadata
@@ -39,10 +39,10 @@
      inkscape:window-height="480"
      id="namedview29"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="32"
-     inkscape:cy="8.5955431"
-     inkscape:current-layer="g11" />
+     inkscape:zoom="5.2149125"
+     inkscape:cx="69.179224"
+     inkscape:cy="30.13287"
+     inkscape:current-layer="drive" />
   <defs
      id="defs4">
     <radialGradient
@@ -78,7 +78,7 @@
        id="rect8317" />
     <path
        inkscape:connector-curvature="0"
-       d="m 3.2468872,1011.3648 c -1.0938264,0 -2.1876507,1.1764 -2.1876507,2.353 l 0,1.1764 c 0,-1.1764 1.0938243,-2.353 2.1876507,-2.353 l 20.7827368,0 2.187654,4.7063 18.595072,0 2.18765,14.1174 0,-1.1765 -2.18765,-14.1175 -17.501249,0 -2.187656,-4.7061 z"
+       d="m 3.2468873,1011.3648 c -1.0938265,0 -2.1876508,1.1764 -2.1876508,2.353 l 0,1.1764 c 0,-1.1764 1.0938243,-2.353 2.1876508,-2.353 l 20.7827367,0 2.187654,4.7063 18.595072,0 2.18765,14.1174 0,-1.1765 -2.18765,-14.1175 -17.501249,0 -2.187656,-4.7061 z"
        style="opacity:0.80400002;fill:#808080;fill-opacity:1;stroke:none"
        id="path8319" />
     <path
@@ -121,21 +121,51 @@
     <g
        transform="translate(-0.81355935,3.4937401)"
        style="opacity:1;fill:#999999"
-       id="g27" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 17.409772,1046.5159 3.992888,-6.1519 14.798286,0 -3.758336,6.1519 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd"
-       id="path25545" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 28.837117,1039.1336 7.363826,0 -7.363826,-12.3038 -7.364323,0 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd"
-       id="path25547" />
-    <path
-       inkscape:connector-curvature="0"
-       d="m 24.00634,1033.7349 -3.725697,-6.1584 -7.88185,12.1247 3.94119,6.0622 z"
-       style="opacity:1;fill:#999999;fill-opacity:1;fill-rule:evenodd"
-       id="path25549" />
+       id="g27">
+      <g
+         id="g4268"
+         transform="matrix(0.04011521,0,0,0.04111548,13.72513,1020.9674)">
+        <g
+           id="g4227">
+          <g
+             id="drive">
+            <path
+               id="path4230"
+               d="m 538.051,339.15 -175.951,-306 -173.4,0 0,0 175.951,306 173.4,0 z m -321.301,25.5 -86.7,153 334.05,0 86.701,-153 -334.051,0 z M 165.75,71.4 0,364.65 86.7,517.65 255,224.4 165.75,71.4 Z"
+               inkscape:connector-curvature="0" />
+          </g>
+        </g>
+        <g
+           id="g4232" />
+        <g
+           id="g4234" />
+        <g
+           id="g4236" />
+        <g
+           id="g4238" />
+        <g
+           id="g4240" />
+        <g
+           id="g4242" />
+        <g
+           id="g4244" />
+        <g
+           id="g4246" />
+        <g
+           id="g4248" />
+        <g
+           id="g4250" />
+        <g
+           id="g4252" />
+        <g
+           id="g4254" />
+        <g
+           id="g4256" />
+        <g
+           id="g4258" />
+        <g
+           id="g4260" />
+      </g>
+    </g>
   </g>
 </svg>
