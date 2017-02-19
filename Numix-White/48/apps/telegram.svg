@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    sodipodi:docname="telegram.svg">
   <metadata
      id="metadata48">
@@ -32,14 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1855"
+     inkscape:window-height="1027"
      id="namedview46"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g38"
+     inkscape:window-x="65"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
   <defs
      id="defs4">
     <linearGradient
@@ -114,21 +117,23 @@
   </g>
   <g
      transform="matrix(3.543307,0,0,3.543307,17,-1.0135719)"
-     id="g36">
+     id="g36"
+     style="stroke-width:0.05644445;stroke-miterlimit:4;stroke-dasharray:none">
     <g
        transform="translate(-5.0800672,0)"
-       id="g38">
+       id="g38"
+       style="stroke-width:0.05644445;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          d="M 5.582,9.787 C 5.363,9.787 5.401,9.704 5.325,9.496 L 4.682,7.38 8.663,4.893 9.128,5.015 8.742,6.073 Z"
-         style="fill:#c8daea"
+         style="fill:#666666;stroke-width:0.05644445;stroke-miterlimit:4;stroke-dasharray:none"
          id="path40" />
       <path
          d="M 5.582,9.787 C 5.751,9.787 5.825,9.71 5.919,9.618 6.064,9.476 7.943,7.65 7.943,7.65 L 6.792,7.371 5.724,8.046 5.582,9.73 Z"
-         style="fill:#a7c2d1"
+         style="fill:#b3b3b3;stroke-width:0.05644445;stroke-miterlimit:4;stroke-dasharray:none"
          id="path42" />
       <path
          d="m 5.697,8.07 2.719,2.01 c 0.31,0.171 0.534,0.083 0.612,-0.288 L 10.135,4.576 C 10.248,4.122 9.962,3.916 9.665,4.05 l -6.5,2.507 C 2.721,6.735 2.724,6.982 3.084,7.093 L 4.752,7.614 8.613,5.178 C 8.795,5.067 8.963,5.127 8.825,5.249 Z"
-         style="fill:url(#linearGradient3102-2)"
+         style="fill:#00afff;stroke-width:0.05644445;stroke-miterlimit:4;stroke-dasharray:none;stroke:#000001;stroke-opacity:0.16818182;fill-opacity:1"
          id="path44" />
     </g>
   </g>
