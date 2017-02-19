@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r"
    sodipodi:docname="scim.svg">
   <metadata
      id="metadata65">
@@ -33,15 +33,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1021"
+     inkscape:window-width="1855"
+     inkscape:window-height="1027"
      id="namedview63"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="23.337269"
+     inkscape:cx="-78.681332"
      inkscape:cy="23.694915"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="65"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
      showguides="false" />
@@ -79,11 +79,13 @@
   </g>
   <g
      id="g19"
-     style="fill:#ececec;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1"
+     transform="translate(0,0.61016949)">
     <path
-       d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
+       d="M 24,1 C 36.703,1 47,11.297 47,24 47,36.703 36.703,47 24,47 11.297,47 1,36.703 1,24 1,11.297 11.297,1 24,1 Z"
        style="fill:#ececec;fill-opacity:1"
-       id="path21" />
+       id="path21"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      id="g59">
@@ -94,26 +96,25 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:15.37840652px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#36ace0;fill-opacity:0.58685446;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="7.1944571"
-     y="23.848621"
+     style="font-style:normal;font-weight:normal;font-size:15.37840652px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#36ace0;fill-opacity:0.58685446;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="6.329617"
+     y="26.909899"
      id="text4193"
-     sodipodi:linespacing="125%"
-     transform="scale(0.94070468,1.0630329)"><tspan
+     transform="scale(0.94070467,1.0630329)"><tspan
        sodipodi:role="line"
        id="tspan4195"
-       x="7.1944571"
-       y="23.848621">Scim</tspan></text>
+       x="6.329617"
+       y="26.909899">Scim</tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.04619551px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.19248827;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="21.610712"
-     y="36.759739"
+     style="font-style:normal;font-weight:normal;font-size:7.23371029px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1.78778064px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="15.714622"
+     y="35.388344"
      id="text4197"
-     sodipodi:linespacing="125%"
-     transform="scale(0.86426531,1.1570521)"><tspan
+     transform="scale(0.91653929,1.0910607)"><tspan
        sodipodi:role="line"
        id="tspan4199"
-       x="21.610712"
-       y="36.759739">Setup</tspan></text>
+       x="15.714622"
+       y="35.388344"
+       style="fill:#333333;stroke-width:1.78778064px">Setup</tspan></text>
 </svg>
