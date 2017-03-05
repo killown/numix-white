@@ -11,16 +11,15 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="scim-setup.svg">
+   sodipodi:docname="network-workgroup.svg">
   <metadata
-     id="metadata65">
+     id="metadata53">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,18 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1021"
-     id="namedview63"
+     inkscape:window-width="767"
+     inkscape:window-height="480"
+     id="namedview51"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-1.5254237"
+     inkscape:cx="24"
      inkscape:cy="24"
      inkscape:window-x="57"
      inkscape:window-y="31"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     showguides="false" />
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <linearGradient
@@ -54,11 +52,11 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0,-1,1,0,-1.5e-6,47.999998)">
       <stop
-         style="stop-color:#2ca4f0;stop-opacity:1"
+         style="stop-color:#d9c3cb;stop-opacity:1"
          id="stop7" />
       <stop
          offset="1"
-         style="stop-color:#3eacf1;stop-opacity:1"
+         style="stop-color:#e1d0d6;stop-opacity:1"
          id="stop9" />
     </linearGradient>
   </defs>
@@ -79,41 +77,61 @@
   </g>
   <g
      id="g19"
-     style="fill:#ececec;fill-opacity:1">
+     style="fill:#e6e6e6;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#ececec;fill-opacity:1"
+       style="fill:#e6e6e6;fill-opacity:1"
        id="path21" />
   </g>
   <g
-     id="g59">
+     id="g23">
+    <g
+       id="g25">
+      <g
+         transform="translate(1,1)"
+         id="g27">
+        <g
+           style="opacity:0.1"
+           id="g29">
+          <!-- color: #e1d0d6 -->
+          <g
+             id="g31">
+            <path
+               d="m 38 30 l -7.5 8 l -7.5 -8 l 4 0 l 0 -12 l 7 0 l 0 12 m 4 0"
+               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"
+               id="path33" />
+            <path
+               d="m 25 18 l -7.5 -8 l -7.5 8 l 4 0 l 0 12 l 7 0 l 0 -12 m 4 0"
+               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:evenodd"
+               id="path35" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g37">
+    <g
+       id="g39">
+      <!-- color: #e1d0d6 -->
+      <g
+         id="g41">
+        <path
+           d="m 38 30 l -7.5 8 l -7.5 -8 l 4 0 l 0 -12 l 7 0 l 0 12 m 4 0"
+           style="fill:#e56062;fill-opacity:1;stroke:none;fill-rule:evenodd"
+           id="path43" />
+        <path
+           d="m 25 18 l -7.5 -8 l -7.5 8 l 4 0 l 0 12 l 7 0 l 0 -12 m 4 0"
+           style="fill:#3ba3e2;fill-opacity:1;stroke:none;fill-rule:evenodd"
+           id="path45" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="g47">
     <path
        d="m 40.03 7.531 c 3.712 4.084 5.969 9.514 5.969 15.469 0 12.703 -10.297 23 -23 23 c -5.954 0 -11.384 -2.256 -15.469 -5.969 4.178 4.291 10.01 6.969 16.469 6.969 c 12.703 0 23 -10.298 23 -23 0 -6.462 -2.677 -12.291 -6.969 -16.469 z"
        style="opacity:0.1"
-       id="path61" />
+       id="path49" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:15.37840652px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#36ace0;fill-opacity:0.58685446;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="7.1944571"
-     y="23.848621"
-     id="text4193"
-     sodipodi:linespacing="125%"
-     transform="scale(0.94070468,1.0630329)"><tspan
-       sodipodi:role="line"
-       id="tspan4195"
-       x="7.1944571"
-       y="23.848621">Scim</tspan></text>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:4.04619551px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.19248827;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
-     x="21.610712"
-     y="36.759739"
-     id="text4197"
-     sodipodi:linespacing="125%"
-     transform="scale(0.86426531,1.1570521)"><tspan
-       sodipodi:role="line"
-       id="tspan4199"
-       x="21.610712"
-       y="36.759739">Setup</tspan></text>
 </svg>

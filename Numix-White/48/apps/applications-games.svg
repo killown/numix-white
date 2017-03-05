@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="applications-games.svg">
   <metadata
      id="metadata51">
@@ -32,16 +32,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="789"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
      id="namedview49"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
-     inkscape:window-maximized="0"
+     inkscape:zoom="9.8333333"
+     inkscape:cx="61.064417"
+     inkscape:cy="22.801467"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -83,10 +83,6 @@
        style="fill-opacity:1;fill:#e6e6e6"
        id="path21" />
   </g>
-  <path
-     d="m 18.232 16.723 c -0.719 0.029 -1.311 0.337 -1.719 0.646 c -2.41 1.828 -4.514 9.452 -4.514 13.486 c 0 4.03 0.928 3.863 1.732 3.863 0.805 0 1.817 -0.553 2.701 -1.332 2.442 -2.149 3.566 -4.387 5.994 -4.387 1.715 0 3.43 0 5.145 0 2.428 0 3.553 2.237 5.994 4.387 0.884 0.779 1.896 1.332 2.701 1.332 0.805 0 1.732 0.172 1.732 -3.863 0 -4.03 -2.104 -11.659 -4.514 -13.486 -0.652 -0.495 -1.774 -0.987 -3.141 -0.338 -0.916 0.435 -1.735 0.969 -2.932 0.969 -1.609 0 -3.219 0 -4.828 0 -1.197 0 -2.02 -0.533 -2.932 -0.969 -0.512 -0.243 -0.99 -0.326 -1.422 -0.309 z"
-     style="fill:#000;opacity:0.1;fill-opacity:1;stroke:none;fill-rule:evenodd"
-     id="path23" />
   <g
      id="g25">
     <path
@@ -95,59 +91,24 @@
        id="path27" />
   </g>
   <g
-     transform="translate(-1,-48)"
-     id="g29">
+     id="Steam"
+     transform="matrix(1.6865589,0,0,1.707627,3.5622365,3.3559385)"
+     style="fill:#808080">
+    <circle
+       id="circle1187"
+       style="fill:#808080"
+       r="2.5"
+       cy="9.5"
+       cx="15.5" />
     <path
-       d="m 18.232 63.723 c -0.719 0.029 -1.311 0.337 -1.719 0.646 c -2.41 1.828 -4.514 9.452 -4.514 13.486 c 0 4.03 0.928 3.863 1.732 3.863 0.805 0 1.817 -0.553 2.701 -1.332 2.442 -2.149 3.566 -4.387 5.994 -4.387 1.715 0 3.43 0 5.145 0 2.428 0 3.553 2.237 5.994 4.387 0.884 0.779 1.896 1.332 2.701 1.332 0.805 0 1.732 0.172 1.732 -3.863 0 -4.03 -2.104 -11.659 -4.514 -13.486 -0.652 -0.495 -1.774 -0.987 -3.141 -0.338 -0.916 0.435 -1.735 0.969 -2.932 0.969 -1.609 0 -3.219 0 -4.828 0 -1.197 0 -2.02 -0.533 -2.932 -0.969 -0.512 -0.243 -0.99 -0.326 -1.422 -0.309 z"
-       style="fill:#fffee0;fill-opacity:1;stroke:none;fill-rule:evenodd"
-       id="path31" />
-    <circle
-       r="2"
-       cy="70"
-       cx="19"
-       style="fill:#3b3b3b;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle33" />
-    <circle
-       r="1"
-       cy="68"
-       cx="32"
-       style="fill:#df8003;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle35" />
-    <circle
-       cx="34"
-       cy="70"
-       r="1"
-       style="fill:#e45146;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle37" />
-    <circle
-       r="1"
-       cy="72"
-       cx="32"
-       style="fill:#68bf45;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle39" />
-    <circle
-       cx="30"
-       cy="70"
-       r="1"
-       style="fill:#5b6dc1;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle41" />
-    <circle
-       r="0.6"
-       cy="70"
-       cx="25.5"
-       style="stroke-dasharray:none;stroke-opacity:1;fill:none;opacity:1;stroke-miterlimit:4;fill-opacity:1;stroke:#3b3b3b;fill-rule:nonzero;stroke-linecap:round;stroke-linejoin:miter;stroke-width:0.3;stroke-dashoffset:0"
-       id="circle43" />
-    <circle
-       r="0.5"
-       cy="70"
-       cx="23.75"
-       style="fill:#3b3b3b;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle45" />
-    <circle
-       cx="27.25"
-       cy="70"
-       r="0.5"
-       style="fill:#3b3b3b;opacity:1;fill-opacity:1;stroke:none;fill-rule:nonzero"
-       id="circle47" />
+       id="path1189"
+       style="fill:#808080"
+       d="M 8.67,18.34 A 1.49,1.49 0 0 1 7,18.13 a 0.5,0.5 0 0 0 -0.66,0.75 2.5,2.5 0 1 0 2,-4.35 0.49,0.49 0 0 0 -0.56,0.43 0.5,0.5 0 0 0 0.43,0.56 1.5,1.5 0 0 1 0.47,2.83 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path1191"
+       style="fill:#808080"
+       d="M 12,0 A 12,12 0 0 0 0,11.5 0.5,0.5 0 0 0 0.14,11.87 0.5,0.5 0 0 0 0.4,12 c 0.34,0.11 3,1.26 4.55,2 A 0.51,0.51 0 0 0 5.47,13.93 3.84,3.84 0 0 1 8.33,13 0.5,0.5 0 0 0 8.78,12.81 l 2.11,-2.76 a 0.5,0.5 0 0 0 0.1,-0.35 c 0,-0.08 0,-0.15 0,-0.22 A 4.5,4.5 0 1 1 15.8,14 0.5,0.5 0 0 0 15.52,14.11 l -3.35,2.75 A 0.5,0.5 0 0 0 11.99,17.22 4,4 0 0 1 8,21 3.94,3.94 0 0 1 4.16,18.07 0.5,0.5 0 0 0 3.9,17.75 L 2,16.82 A 0.5,0.5 0 0 0 1.33,17.5 12,12 0 1 0 12,0 Z"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

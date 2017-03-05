@@ -10,8 +10,8 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="network-workgroup.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="networkmanager.svg">
   <metadata
      id="metadata53">
     <rdf:RDF>
@@ -32,17 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="767"
+     inkscape:window-width="768"
      inkscape:window-height="480"
      id="namedview51"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="787"
+     inkscape:window-y="377"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="g41" />
   <defs
      id="defs4">
     <linearGradient
@@ -118,11 +118,11 @@
          id="g41">
         <path
            d="m 38 30 l -7.5 8 l -7.5 -8 l 4 0 l 0 -12 l 7 0 l 0 12 m 4 0"
-           style="fill:#e56062;fill-opacity:1;stroke:none;fill-rule:evenodd"
+           style="fill:#808080;fill-opacity:0.54950494;stroke:none;fill-rule:evenodd"
            id="path43" />
         <path
            d="m 25 18 l -7.5 -8 l -7.5 8 l 4 0 l 0 12 l 7 0 l 0 -12 m 4 0"
-           style="fill:#3ba3e2;fill-opacity:1;stroke:none;fill-rule:evenodd"
+           style="fill:#175785;fill-opacity:0.54950494;stroke:none;fill-rule:evenodd"
            id="path45" />
       </g>
     </g>
