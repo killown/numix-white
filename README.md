@@ -1,6 +1,6 @@
 Based on numix circle.
 Still Alpha and missing some white icons
-![alt tag](https://github.com/killown/numix-white/blob/master/numix-white.svg)
+![alt tag](https://github.com/killown/numix-white/blob/master/numix-white.png)
 ---------------------------------------
 Installation
 ------------
