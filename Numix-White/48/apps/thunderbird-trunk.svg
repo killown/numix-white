@@ -10,8 +10,8 @@
    viewBox="0 0 48 48"
    id="svg8275"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="thunderbird-beta.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="thunderbird-trunk.svg">
   <metadata
      id="metadata8329">
     <rdf:RDF>
@@ -32,14 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
+     inkscape:window-width="790"
      inkscape:window-height="480"
      id="namedview8327"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:current-layer="svg8275" />
+     inkscape:current-layer="g8317"
+     inkscape:window-x="695"
+     inkscape:window-y="414"
+     inkscape:window-maximized="0" />
   <defs
      id="defs8277">
     <linearGradient
@@ -119,19 +122,22 @@
   </g>
   <g
      transform="translate(2.4624513e-4,0)"
-     id="g8313">
+     id="g8313"
+     style="fill:#808080">
     <g
-       id="g8315">
+       id="g8315"
+       style="fill:#808080">
       <!-- color: #5782cb -->
       <g
-         id="g8317">
+         id="g8317"
+         style="fill:#808080">
         <path
            d="M 33,26.801 C 33.051,31.746 29.746,36 24.203,36 18.664,36 14.965,33.195 15,26.402 15.035,19.589 19.617,12.086 23.793,12 28.246,11.895 32.918,19.277 33,26.801 m 0,0"
-           style="fill:url(#linear0);stroke:none;fill-rule:evenodd"
+           style="fill:#808080;stroke:none;fill-rule:evenodd"
            id="path8319" />
         <path
            d="m 28.875 14.938 -1.969 1.973 -0.125 0.09 0.09 0.094 0.813 0.906 -1.531 0.75 -0.125 0.094 c -0.004 -0.004 -0.023 0.004 -0.031 0 -0.086 -0.063 -0.176 -0.133 -0.313 -0.188 -0.09 -0.039 -0.203 -0.082 -0.309 -0.125 -0.414 -0.191 -0.797 -0.355 -1.285 -0.625 -0.012 -0.004 -0.016 -0.023 -0.031 -0.031 l -0.09 0.125 -0.125 0.094 c 0.012 0.016 0.047 0.012 0.063 0.031 0.098 0.109 0.211 0.199 0.375 0.277 0.191 0.098 0.43 0.191 0.656 0.281 0.215 0.086 0.422 0.176 0.594 0.25 0.008 0.004 0.027 0 0.035 0 0.07 0.035 0.074 0.039 0.121 0.066 l -1.184 0.531 0.063 0.156 0.063 0.125 c 0.238 -0.098 0.602 -0.215 0.906 -0.344 0.129 -0.055 0.219 -0.109 0.313 -0.156 l 0 0.652 0.313 0 c 0.004 -0.422 0.039 -0.578 0.066 -0.84 l 1.906 -0.941 0.188 -0.09 -0.121 -0.156 -0.844 -0.91 c 0.566 -0.594 0.855 -0.969 1.75 -1.871 -0.203 -0.188 -0.137 -0.137 -0.219 -0.223 m -0.008 0.004"
-           style="fill:#2f2f2f;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#f2f2f2;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path8321" />
       </g>
     </g>

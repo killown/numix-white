@@ -14,7 +14,7 @@
    version="1.1"
    inkscape:version="0.92.1 r"
    sodipodi:docname="totalwhite.svg"
-   inkscape:export-filename="/home/thiago/Projetos/Numix-White/Numix-White/48@2x/apps/totalwhite.png"
+   inkscape:export-filename="/home/neo/Projetos/numix-white/numix-white.png"
    inkscape:export-xdpi="1866"
    inkscape:export-ydpi="1866"
    width="48"
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2122,7 +2122,7 @@
      id="namedview7709"
      showgrid="false"
      inkscape:zoom="12.683728"
-     inkscape:cx="-1.4169991"
+     inkscape:cx="-18.131328"
      inkscape:cy="22.586219"
      inkscape:window-x="58"
      inkscape:window-y="25"
