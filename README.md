@@ -1,5 +1,5 @@
 Based on numix circle.
-Still Alpha and missing some white icons
+Feel free to request new icons
 ![alt tag](https://github.com/killown/numix-white/blob/master/numix-white.png)
 ---------------------------------------
 Installation
