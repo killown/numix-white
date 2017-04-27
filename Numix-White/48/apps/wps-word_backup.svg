@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="wps-word.svg">
   <metadata
      id="metadata57">
@@ -32,17 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="767"
+     inkscape:window-height="480"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="30.321117"
-     inkscape:cy="19.454334"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-x="57"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g43" />
   <defs
      id="defs4">
     <linearGradient
@@ -84,27 +84,54 @@
        id="path21" />
   </g>
   <g
-     id="g39"
-     transform="matrix(1.1094296,0,0,1.0592945,-3.0227428,-2.6356055)">
+     id="g23">
+    <g
+       id="g25">
+      <g
+         transform="translate(1,1)"
+         id="g27">
+        <g
+           style="opacity:0.1"
+           id="g29">
+          <!-- color: #3e64d2 -->
+          <g
+             id="g31">
+            <path
+               d="m 13 33.922 l 4.727 0.078 l 6.578 -6.492 l 5.984 6.492 l 4.691 -0.078 l -10.742 -11.441 m -11.238 11.441"
+               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               id="path33" />
+            <path
+               d="m 13.02 14 l 4.707 0 l 0 20 l -4.707 0 m 0 -20"
+               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               id="path35" />
+            <path
+               d="m 30.29 14 l 4.711 0 l 0 20 l -4.711 0 m 0 -20"
+               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
+               id="path37" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     id="g39">
     <g
        id="g41">
       <!-- color: #3e64d2 -->
       <g
          id="g43">
-        <g
-           id="g1652"
-           transform="matrix(0.27027159,0,0,0.22335951,9.0362969,13.577938)">
-          <path
-             id="path1638"
-             d="m 57.505,0 h 7.475 v 10 c 13.375,0.075 26.738,-0.138 40.101,0.075 2.85,-0.288 5.087,1.925 4.825,4.775 0.212,24.625 -0.05,49.262 0.125,73.887 -0.125,2.525 0.25,5.325 -1.213,7.562 -1.825,1.3 -4.188,1.138 -6.312,1.237 C 89.992,97.475 77.492,97.5 64.98,97.5 v 10 h -7.812 c -19.024,-3.475 -38.1,-6.662 -57.162,-10 -0.013,-29.162 0,-58.325 0,-87.475 C 19.167,6.675 38.343,3.413 57.506,0 Z"
-             inkscape:connector-curvature="0"
-             style="fill:#2a5699" />
-          <path
-             id="path1640"
-             d="m 64.98,13.75 h 41.25 v 80 H 64.98 v -10 h 32.5 v -5 H 64.98 V 72.5 h 32.5 v -5 h -32.5 v -6.25 h 32.5 v -5 H 64.98 V 50 h 32.5 v -5 h -32.5 v -6.25 h 32.5 v -5 H 64.98 V 27.5 h 32.5 v -5 H 64.98 Z M 25.83,35.837 c 2.375,-0.137 4.75,-0.237 7.125,-0.362 1.662,8.438 3.362,16.862 5.162,25.262 1.413,-8.675 2.976,-17.325 4.487,-25.987 2.5,-0.087 5,-0.225 7.488,-0.375 -2.825,12.112 -5.3,24.325 -8.388,36.362 -2.088,1.088 -5.213,-0.05 -7.688,0.125 -1.663,-8.274 -3.6,-16.5 -5.088,-24.812 -1.462,8.075 -3.362,16.075 -5.037,24.101 -2.4,-0.125 -4.812,-0.275 -7.226,-0.438 -2.074,-11 -4.512,-21.925 -6.449,-32.95 2.137,-0.1 4.287,-0.188 6.425,-0.263 1.287,7.962 2.75,15.888 3.875,23.862 1.765,-8.174 3.564,-16.349 5.314,-24.525 z"
-             inkscape:connector-curvature="0"
-             style="fill:#ffffff" />
-        </g>
+        <path
+           d="m 13 33.922 l 4.727 0.078 l 6.578 -6.492 l 5.984 6.492 l 4.691 -0.078 l -10.742 -11.441 m -11.238 11.441"
+           style="fill:#999999;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           id="path45" />
+        <path
+           d="m 13.02 14 l 4.707 0 l 0 20 l -4.707 0 m 0 -20"
+           style="fill:#006bff;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           id="path47" />
+        <path
+           d="m 30.29 14 l 4.711 0 l 0 20 l -4.711 0 m 0 -20"
+           style="fill:#0063ff;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           id="path49" />
       </g>
     </g>
   </g>
