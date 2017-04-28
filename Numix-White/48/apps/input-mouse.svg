@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="mouse.svg">
   <metadata
      id="metadata57">
@@ -32,14 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      id="namedview55"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:current-layer="g39" />
+     inkscape:cy="23.694915"
+     inkscape:current-layer="g39"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
   <defs
      id="defs4">
     <linearGradient
@@ -112,11 +115,11 @@
          id="g39">
         <path
            d="m 24 12 0 10 -8 0 0 -3 c 0 -3 4 -7 8 -7"
-           style="fill:#eede4a;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path41" />
         <path
            d="m 16 23 0 6 c 0 4 3 7 8 7 5 0 8 -3 8 -7 l 0 -6 m -16 0"
-           style="fill:#666666;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path43" />
         <path
            d="m 16 22 16 0 0 1 -16 0 m 0 -1"
@@ -124,7 +127,7 @@
            id="path45" />
         <path
            d="m 24 12 0 10 8 0 0 -3 c 0 -3 -4 -7 -8 -7 m 0 0"
-           style="fill:#eec74a;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path47" />
         <path
            d="m 24,19 c 0.551,0 1,0.672 1,1.5 l 0,4 c 0,0.828 -0.449,1.5 -1,1.5 -0.551,0 -1,-0.672 -1,-1.5 l 0,-4 C 23,19.672 23.449,19 24,19 m 0,0"

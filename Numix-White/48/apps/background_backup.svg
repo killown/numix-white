@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="background.svg">
   <metadata
      id="metadata71">
@@ -32,16 +32,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1052"
+     inkscape:window-width="767"
+     inkscape:window-height="480"
      id="namedview69"
      showgrid="false"
-     inkscape:zoom="9.8333332"
-     inkscape:cx="16.01695"
-     inkscape:cy="22.648032"
-     inkscape:window-x="1920"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:zoom="4.9166667"
+     inkscape:cx="-3.7627119"
+     inkscape:cy="24"
+     inkscape:window-x="57"
+     inkscape:window-y="31"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <defs
      id="defs4">
@@ -114,19 +114,19 @@
          id="g39">
         <path
            d="m 12.773,11 22.453,0 c 0.984,0 1.773,0.789 1.773,1.773 l 0,15.227 -13,2 -13,-2 0,-15.227 C 10.999,11.789 11.788,11 12.772,11"
-           style="fill:#404552;fill-opacity:1"
+           style="fill:#546971"
            id="path41" />
         <path
            d="m 21 31 c 0 3 0 3 -2 5 l 5 1 5 -1 c -2 -2 -2 -2 -2 -5 l -3 -3 m -3 3"
-           style="fill:#404552;fill-opacity:1"
+           style="fill:#cfd6d6"
            id="path43" />
         <path
            d="m 17 36 14 0 0 1 -14 0 m 0 -1"
-           style="fill:#383c4a;fill-opacity:1"
+           style="fill:#dddee2"
            id="path45" />
         <path
            d="m 11 28 26 0 0 3 -26 0 m 0 -3"
-           style="fill:#404552;fill-opacity:1"
+           style="fill:#dddee2"
            id="path47" />
         <path
            d="m 13 13 22 0 0 13 -22 0 m 0 -13"

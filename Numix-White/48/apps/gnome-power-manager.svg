@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="battery.svg">
   <metadata
      id="metadata41">
@@ -32,16 +32,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="767"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
-     inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
-     inkscape:window-maximized="0"
+     inkscape:cy="23.694915"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g27" />
   <defs
      id="defs4">
@@ -105,7 +105,7 @@
        id="path31" />
     <path
        d="m 4.762 2.819 c -0.439 0 -0.811 0.373 -0.811 0.813 l 0 6.844 c 0 0.439 0.372 0.813 0.811 0.813 l 4.054 0 c 0.439 0 0.779 -0.373 0.779 -0.813 l 0 -6.844 c 0 -0.439 -0.34 -0.813 -0.779 -0.813 l -4.054 0 z m 0 0.563 4.054 0 c 0.123 0 0.219 0.1 0.219 0.25 l 0 6.844 c 0 0.15 -0.096 0.25 -0.219 0.25 l -4.054 0 c -0.123 0 -0.249 -0.1 -0.249 -0.25 l 0 -6.844 c 0 -0.15 0.127 -0.25 0.249 -0.25 z"
-       style="visibility:visible;fill:#1eaa95;fill-opacity:1;stroke:none;display:inline;color:#000"
+       style="visibility:visible;fill:#008000;fill-opacity:1;stroke:none;display:inline;color:#000"
        id="path33" />
     <rect
        width="2.822"
@@ -113,11 +113,11 @@
        x="5.362"
        y="1.975"
        rx="0.282"
-       style="fill:#1eaa95;fill-opacity:1"
+       style="fill:#008000;fill-opacity:1"
        id="rect35" />
     <path
        d="m 4.798 10.442 3.951 0 0 -4.798 -3.951 2.822 z"
-       style="fill:#ebebd2;fill-opacity:1"
+       style="fill:#404552;fill-opacity:1"
        id="path37" />
   </g>
 </svg>

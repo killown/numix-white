@@ -10,8 +10,8 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="gnome-display-properties.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="display.svg">
   <metadata
      id="metadata61">
     <rdf:RDF>
@@ -32,17 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="789"
-     inkscape:window-height="480"
+     inkscape:window-width="1861"
+     inkscape:window-height="1025"
      id="namedview59"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
+     inkscape:window-x="59"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g39" />
   <defs
      id="defs4">
     <linearGradient
@@ -114,24 +114,26 @@
          id="g39">
         <path
            d="m 12.773,11 22.453,0 c 0.984,0 1.773,0.789 1.773,1.773 l 0,15.227 -13,2 -13,-2 0,-15.227 C 10.999,11.789 11.788,11 12.772,11 m 0,0"
-           style="fill:#697f8c;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path41" />
         <path
            d="m 21 31 c 0 3 0 3 -2 5 l 5 1 5 -1 c -2 -2 -2 -2 -2 -5 l -3 -3 m -3 3"
-           style="fill:#cfd6d6;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path43" />
         <path
            d="m 17 36 14 0 0 1 -14 0 m 0 -1"
-           style="fill:#e5ecec;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path45" />
         <path
            d="m 11 28 26 0 0 3 -26 0 m 0 -3"
-           style="fill:#e5ecec;fill-opacity:1;stroke:none;fill-rule:nonzero"
+           style="fill:#404552;fill-opacity:1;stroke:none;fill-rule:nonzero"
            id="path47" />
         <path
-           d="m 13 13 22 0 0 13 -22 0 m 0 -13"
-           style="fill:#dee5ea;fill-opacity:1;stroke:none;fill-rule:nonzero"
-           id="path49" />
+           d="M 13,13 H 32.542373 35 V 26 H 13"
+           style="fill:#dee5ea;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path49"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
         <path
            d="M 12.781,11 C 11.801,11 11,11.801 11,12.781 L 11,28 30,28 18,11 m -5.219,0"
            style="fill:#000;fill-opacity:0.051;stroke:none;fill-rule:nonzero"
