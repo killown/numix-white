@@ -1,6 +1,8 @@
 Based on numix circle.
-since a lot of people were downvoting numix white in gnome look I decided to remove it from there.
-And I do not allow to post it there anymore. 
+
+numix white received a massive downvoting in opendesktop.org so I decided to remove it from there. 
+
+And, I do not allow to post it there anymore. 
 
 ![alt tag](https://github.com/killown/numix-white/blob/master/numix-white.png)
 ---------------------------------------
