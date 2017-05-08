@@ -10,8 +10,8 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="unity-webapps-google-news.svg">
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="web-google.svg">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -32,12 +32,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="767"
+     inkscape:window-width="789"
      inkscape:window-height="480"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-10.271186"
      inkscape:cy="24"
      inkscape:window-x="57"
      inkscape:window-y="31"
@@ -77,10 +77,10 @@
   </g>
   <g
      id="g19"
-     style="fill:#e6e6e6;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path21" />
   </g>
   <g

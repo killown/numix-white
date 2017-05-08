@@ -1,5 +1,7 @@
 Based on numix circle.
-Feel free to request new icons
+since a lot of people were downvoting numix white in gnome look I decided to remove it from there.
+And I do not allow to post it there anymore. 
+
 ![alt tag](https://github.com/killown/numix-white/blob/master/numix-white.png)
 ---------------------------------------
 Installation

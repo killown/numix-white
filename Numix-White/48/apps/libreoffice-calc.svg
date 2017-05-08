@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg24068"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="libreoffice-calc.svg">
   <metadata
      id="metadata24124">
@@ -33,15 +33,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1021"
+     inkscape:window-width="1861"
+     inkscape:window-height="1025"
      id="namedview24122"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-48.915254"
+     inkscape:cx="-85.423729"
      inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="59"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg24068" />
   <defs
@@ -85,7 +85,8 @@
        id="path24087" />
   </g>
   <g
-     id="g24089">
+     id="g24089"
+     transform="translate(-1.6271186,-0.40677966)">
     <g
        id="g24091">
       <g
@@ -98,44 +99,55 @@
           <g
              id="g24097">
             <path
-               d="m 14.656 11 c -1.473 0 -2.66 1.184 -2.66 2.656 l 0 20.684 c 0 1.477 1.184 2.66 2.66 2.66 l 20.684 0 c 1.473 0 2.66 -1.184 2.66 -2.66 l 0 -17.344 l -6 -5.996 m -17.344 0"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
-               id="path24099" />
+               d="m 14.656,11 c -1.473,0 -2.66,1.184 -2.66,2.656 V 34.34 c 0,1.477 1.184,2.66 2.66,2.66 H 35.34 C 36.813,37 38,35.816 38,34.34 V 16.996 L 32,11 m -17.344,0"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path24099"
+               inkscape:connector-curvature="0" />
             <use
                xlink:href="#SVGCleanerId_0"
-               id="use24101" />
+               id="use24101"
+               x="0"
+               y="0"
+               width="100%"
+               height="100%" />
             <path
-               d="m 38 17 l -6 0 l 0 -5.996 m 6 5.996"
-               style="fill:#000;fill-opacity:1;stroke:none;fill-rule:nonzero"
-               id="path24103" />
+               d="M 38,17 H 32 V 11.004 M 38,17"
+               style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               id="path24103"
+               inkscape:connector-curvature="0" />
           </g>
         </g>
       </g>
     </g>
   </g>
   <g
-     id="g24105">
+     id="g24105"
+     transform="translate(-1.6271186,-0.40677966)">
     <g
        id="g24107">
       <!-- color: #3dc57a -->
       <g
          id="g24109">
         <path
-           d="m 14.656,11 c -1.473,0 -2.66,1.184 -2.66,2.656 l 0,20.684 c 0,1.477 1.184,2.66 2.66,2.66 L 35.34,37 C 36.813,37 38,35.816 38,34.34 L 38,16.996 32,11 m -17.344,0"
-           style="fill:#44c89c;fill-opacity:1;stroke:none;fill-rule:nonzero"
-           id="path24111" />
+           d="m 14.656,11 c -1.473,0 -2.66,1.184 -2.66,2.656 V 34.34 c 0,1.477 1.184,2.66 2.66,2.66 H 35.34 C 36.813,37 38,35.816 38,34.34 V 16.996 L 32,11 m -17.344,0"
+           style="fill:#44c89c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path24111"
+           inkscape:connector-curvature="0" />
         <path
-           d="m 38 17 -6 0 6 6 m 0 -6"
+           d="m 38,17 h -6 l 6,6 m 0,-6"
            id="SVGCleanerId_0"
-           style="fill:#000;fill-opacity:0.2;stroke:none;fill-rule:nonzero" />
+           style="fill:#000000;fill-opacity:0.2;fill-rule:nonzero;stroke:none"
+           inkscape:connector-curvature="0" />
         <path
-           d="m 38,17 -6,0 0,-5.996 M 38,17"
-           style="fill:#fff;fill-opacity:1;stroke:none;fill-rule:nonzero"
-           id="path24114" />
+           d="M 38,17 H 32 V 11.004 M 38,17"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path24114"
+           inkscape:connector-curvature="0" />
         <path
-           d="m 33 19 c 0 5.629 0 11.12 0 16 -5.617 0 -11.141 0 -16 0 0 -5.629 0 -11.12 0 -16 5.555 0 11.238 0 16 0 m -1 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 9 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 9 1 -8 0 0 4 8 0 m -9 -4 -5 0 0 4 5 0 m 0 -4"
-           style="fill:#ffffff;fill-opacity:1;stroke:none;fill-rule:nonzero"
-           id="path24116" />
+           d="m 33,19 c 0,5.629 0,11.12 0,16 -5.617,0 -11.141,0 -16,0 0,-5.629 0,-11.12 0,-16 5.555,0 11.238,0 16,0 m -1,1 h -8 v 4 h 8 m -9,-4 h -5 v 4 h 5 m 9,1 h -8 v 4 h 8 m -9,-4 h -5 v 4 h 5 m 9,1 h -8 v 4 h 8 m -9,-4 h -5 v 4 h 5 m 0,-4"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path24116"
+           inkscape:connector-curvature="0" />
       </g>
     </g>
   </g>
