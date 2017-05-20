@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg5716"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="qbittorrent.svg">
   <metadata
      id="metadata5767">
@@ -34,17 +34,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1021"
+     inkscape:window-width="1848"
+     inkscape:window-height="1031"
      id="namedview5765"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-9.6197331"
+     inkscape:cx="-40.433292"
      inkscape:cy="23.38983"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="72"
+     inkscape:window-y="28"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5716" />
+     inkscape:current-layer="g5751" />
   <defs
      id="defs5718">
     <linearGradient
@@ -98,17 +98,16 @@
      style="fill:#0000ff;fill-opacity:0.53233832">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:28.74187851px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#56b7df;fill-opacity:1;stroke:#000000;stroke-width:0.85848385px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.09859158"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#56b7df;fill-opacity:1;stroke:none;stroke-width:0.85848385px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0.09859158;"
        x="4.7871399"
        y="31.699949"
        id="text4174"
-       sodipodi:linespacing="125%"
        transform="scale(1.0054079,0.99462119)"><tspan
          sodipodi:role="line"
          id="tspan4176"
          x="4.7871399"
          y="31.699949"
-         style="stroke-width:0.85848385px">qb</tspan></text>
+         style="font-size:28.74187851px;line-height:1.25;stroke-width:0.85848385px;stroke:none;">qb</tspan></text>
   </g>
   <g
      id="g5761">
