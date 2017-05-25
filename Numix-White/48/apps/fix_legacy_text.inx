@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+
+  <name>Fix Legacy Text</name>
+  <id>su-v/org.inkscape.text.fixlegacy</id>
+
+  <dependency type="executable" location="extensions">fix_legacy_text.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+
+  <param name="tab" type="notebook" gui-hidden="false">
+    <page name="Options">
+      <param name="fix_line_spacing" type="boolean" gui-text="Adjust line spacing" gui-description="Copy line-height from outer style to each line if unset, set outer line-height to 0.">true</param>
+      <param name="fix_font_size" type="boolean" gui-text="Adjust font size" gui-description="Copy font-size from outer style to each line if unset, unset font-size in outer style.">false</param>
+      <param name="fix_blank_line" type="boolean" gui-text="Fix blank lines" gui-description="Add a space or block character to each blank line, set fontsize of blank line to the one above (approx.).">true</param>
+      <param name="fix_font_name" type="boolean" gui-text="Fix generic font names" gui-description="Replace legacy names for generic font families (Sans -> sans-serif, Serif -> serif, Monospace -> monospace).">true</param>
+      <param name="fix_plain_text" type="boolean" gui-text="Make plain text editable" gui-description="Add Inkscape editor information to text objects in Plain SVG files to support multi-line text editing (sodipodi:role='line').">false</param>
+      <param name="fix_split_text" type="boolean" gui-text="Split regular text into lines" gui-description="Split text will use existing y positions stored per line. If legacy text has not been edited yet with Inkscape 0.92, these positions match the original layout in Inkscape 0.91 or earlier.">false</param>
+    </page>
+    <page name="Debug">
+      <param name="min_lh_divisor" type="int" gui-text="Minimal line-height value: 1 / " min="0" max="100000000">100</param>
+      <param name="fontsize_reset" type="enum" gui-text="Reset font-size in outer style:">
+        <item value="unset">Unset</item>
+        <item value="zero">Set to zero</item>
+      </param>
+      <param name="debug" type="boolean" gui-text="Debug" gui-description="Use solid block as placeholder in blank lines">false</param>
+    </page>
+    <page name="About">
+      <param name="fixlegacy_desc1" type="description">Fix layout of text in legacy documents.</param>
+    </page>
+  </param>
+
+  <effect needs-document="true" needs-live-preview="true">
+    <menu-tip>Fix text line spacing in legacy documents</menu-tip>
+    <effects-menu hidden="false">
+      <submenu _name="Document" />
+    </effects-menu>
+  </effect>
+
+  <script>
+    <command reldir="extensions" interpreter="python">fix_legacy_text.py</command>
+  </script>
+
+</inkscape-extension>

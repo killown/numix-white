@@ -12,7 +12,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="desktop.svg">
+   sodipodi:docname="panel-applets.svg">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -34,17 +34,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1864"
-     inkscape:window-height="1055"
+     inkscape:window-width="1854"
+     inkscape:window-height="1027"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="6.9532166"
-     inkscape:cx="33.193441"
+     inkscape:cx="4.5016842"
      inkscape:cy="-3.4452273"
-     inkscape:window-x="56"
-     inkscape:window-y="25"
+     inkscape:window-x="66"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g5086" />
+     inkscape:current-layer="g5084" />
   <defs
      id="defs4">
     <linearGradient
@@ -869,7 +869,7 @@
                  r="256"
                  cy="256"
                  cx="256"
-                 style="fill:#e3dbdb;stroke:#2b48d6;stroke-opacity:0.34666666" />
+                 style="fill:#ececec;stroke:#2b48d6;stroke-opacity:0.34666666" />
               <linearGradient
                  y2="256.00052"
                  y1="256.00052"
@@ -910,19 +910,20 @@
             </g>
             <g
                id="g5084"
-               transform="matrix(1.11261,0,0,1.1298032,-20.965924,-35.92392)">
+               transform="matrix(1.11261,0,0,1.1298032,-20.965924,-35.92392)"
+               style="fill:#ffd5d5">
               <rect
                  id="rect5080"
                  y="180.18933"
                  x="171.00267"
                  width="169.99786"
                  height="107.37173"
-                 style="fill:#ffffff" />
+                 style="fill:#808080" />
               <path
                  id="path5082"
                  d="M 360.99893,145.18719 H 151.00107 c -8.28427,0 -14.99947,6.71575 -14.99947,15 v 147.37122 c 0,8.28479 6.7152,14.99945 14.99947,14.99945 h 73.41867 l -9.52854,34.25546 h -28.00534 v 9.99949 h 138.22562 v -9.99949 h -28.00256 l -9.52866,-34.25546 h 73.41867 c 8.28372,0 14.99948,-6.71466 14.99948,-14.99945 V 160.18719 c 0,-8.28425 -6.71576,-15 -14.99948,-15 z m -9.99841,152.37388 H 161.00267 V 170.18933 h 189.99785 z"
                  inkscape:connector-curvature="0"
-                 style="fill:#e3dbdb" />
+                 style="fill:#4d4d4d" />
             </g>
           </g>
         </g>

@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="applications-development.svg">
+   sodipodi:docname="cs-drivers.svg">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -32,15 +32,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="1854"
+     inkscape:window-height="1027"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="9.8333333"
-     inkscape:cx="31.166574"
-     inkscape:cy="30.729764"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:cx="12.230908"
+     inkscape:cy="34.980908"
+     inkscape:window-x="66"
+     inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <defs
@@ -90,9 +90,27 @@
        style="opacity:0.1"
        id="path45" />
   </g>
-  <path
-     d="m 26.126777,11.224128 h 3.32304 l -7.54228,24.472017 h -3.30444 z m 15.03288,13.929177 -9.79714,6.79305 v -4.21234 l 5.70471,-3.96918 -5.70471,-3.928362 v -4.223191 l 9.79714,6.793253 z M 6.6511864,22.406535 16.448407,15.613386 v 4.22319 l -5.70478,3.928259 5.7047,3.96918 v 4.21234 l -9.7971406,-6.79305 z"
-     id="html-code-icon"
-     inkscape:connector-curvature="0"
-     style="fill:#808080;stroke-width:0.0930354" />
+  <style
+     id="style4544"
+     type="text/css">
+	.st0{fill:#990000;}
+</style>
+  <g
+     id="g4642"
+     transform="matrix(0.0761772,0,0,0.09774419,10.102888,6.798591)">
+    <path
+       id="path4626"
+       d="M 115.2,0 V 109.3 H 244.9 V 0 Z m 38.1,72.2 h -27 V 54.6 h 27 z m 80.4,0 h -27 V 54.6 h 27 z"
+       inkscape:connector-curvature="0"
+       style="fill:#575858" />
+    <path
+       id="path4628"
+       d="M 274.4,300.5 H 85.6 c -1.1,0 -2,-0.9 -2,-2 V 125.7 c 0,-1.1 0.9,-2 2,-2 h 188.7 c 1.1,0 2,0.9 2,2 v 172.8 c 0.1,1.1 -0.8,2 -1.9,2 z"
+       inkscape:connector-curvature="0"
+       style="fill:#575858" />
+    <polygon
+       id="polygon4630"
+       points="154.4,358.2 158.6,360 201.4,360 205.6,358.2 205.6,315 154.4,315 "
+       style="fill:#575858" />
+  </g>
 </svg>
