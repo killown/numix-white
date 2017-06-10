@@ -11,7 +11,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.92.1 r"
-   sodipodi:docname="chrome-fbangkleohkafngihneedemihgfeikcl-Default.svg"
+   sodipodi:docname="masterpdfeditor.svg"
    width="51.200001"
    height="51.200001">
   <metadata
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,7 +40,7 @@
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-65.38983"
+     inkscape:cx="-34.576271"
      inkscape:cy="24"
      inkscape:window-x="72"
      inkscape:window-y="26"
@@ -122,14 +123,14 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:41.53155899px;line-height:1.25;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#005fff;fill-opacity:0.65921786;stroke:none;stroke-width:1.03828907"
-     x="9.1371231"
-     y="36.702217"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.59885788px;line-height:1.25;font-family:Z003;-inkscape-font-specification:Z003;letter-spacing:0px;word-spacing:0px;fill:#005fff;fill-opacity:0.65921789;stroke:none;stroke-width:0.78997147;"
+     x="7.2975268"
+     y="33.435677"
      id="text4504"
-     transform="scale(1.0175622,0.9827409)"><tspan
+     transform="scale(0.99004903,1.010051)"><tspan
        sodipodi:role="line"
        id="tspan4502"
-       x="9.1371231"
-       y="36.702217"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;fill:#005fff;fill-opacity:0.65921786;stroke-width:1.03828907">P</tspan></text>
+       x="7.2975268"
+       y="33.435677"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Z003;-inkscape-font-specification:Z003;stroke-width:0.78997147;fill:#005fff;fill-opacity:0.65921789;">M</tspan></text>
 </svg>
