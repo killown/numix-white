@@ -12,7 +12,7 @@
    viewBox="0 0 48 48"
    id="svg5716"
    version="1.1"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="hexchat.svg">
   <metadata
      id="metadata5767">
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1011"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
      id="namedview5765"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-90.938612"
+     inkscape:cx="-26.602515"
      inkscape:cy="22.77966"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5716" />
   <defs
@@ -111,7 +111,7 @@
        fx="23.754747"
        fy="28.164989"
        r="14.0613"
-       gradientTransform="matrix(0.8587101,0,0,0.92127612,1.0314977,0.67599631)"
+       gradientTransform="matrix(1.033197,0,0,1.1084762,-0.86075925,-2.7625602)"
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
@@ -155,14 +155,14 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.07861423px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     x="7.4042082"
-     y="38.03194"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.32975006px;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     x="6.8068628"
+     y="42.183979"
      id="text4193"
-     transform="scale(1.0441911,0.95767909)"><tspan
+     transform="scale(1.1146183,0.89716812)"><tspan
        sodipodi:role="line"
        id="tspan4195"
-       x="7.4042082"
-       y="38.03194"
-       style="font-size:47.41436386px;line-height:1.25;fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">x</tspan></text>
+       x="6.8068628"
+       y="42.183979"
+       style="font-size:57.04879761px;line-height:1.25;fill:#ffb380;fill-opacity:1;stroke:url(#radialGradient4195);stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none">x</tspan></text>
 </svg>
