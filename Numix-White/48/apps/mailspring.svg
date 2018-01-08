@@ -20,7 +20,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,13 +37,13 @@
      inkscape:window-height="1025"
      id="namedview47"
      showgrid="false"
-     inkscape:zoom="2.4583333"
-     inkscape:cx="-89.544176"
-     inkscape:cy="38.206635"
+     inkscape:zoom="9.8333332"
+     inkscape:cx="7.5763706"
+     inkscape:cy="30.755015"
      inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g201" />
+     inkscape:current-layer="g237" />
   <defs
      id="defs4">
     <linearGradient
@@ -78,10 +78,10 @@
   </g>
   <g
      id="g19"
-     style="fill:#e6e6e6">
+     style="fill:#ececec">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path21" />
   </g>
   <g
@@ -101,17 +101,20 @@
      id="g237"
      transform="matrix(0.29449152,0,0,0.29131356,5.1525428,5.1525422)">
     <g
-       id="g201">
+       id="g201"
+       style="fill:#ececec"
+       transform="matrix(0.91366906,0,0,0.97545455,5.52518,1.0472727)">
       <circle
          id="circle199"
          r="64"
          cy="64"
          cx="64"
          class="st0"
-         style="fill:#55dedc;fill-opacity:0.76439792" />
+         style="fill:#ececec;fill-opacity:0.76439789" />
     </g>
     <g
-       id="g207">
+       id="g207"
+       transform="matrix(0.91366906,0,0,0.97545455,4.8941568,1.387795)">
       <g
          id="g205">
         <path
@@ -123,24 +126,28 @@
       </g>
     </g>
     <g
-       id="g217">
+       id="g217"
+       style="fill:#55dedc;fill-opacity:1"
+       transform="matrix(1.2765074,0,0,1.4317544,-18.011987,-25.942525)">
       <g
-         id="g211">
+         id="g211"
+         style="fill:#55dedc;fill-opacity:1">
         <path
            id="path209"
            d="M 64,72.4 102.2,39.7 C 101.6,39.3 100.8,39 100,39 H 28 c -0.8,0 -1.6,0.3 -2.2,0.7 z"
            class="st1"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff" />
+           style="fill:#55dedc;fill-opacity:1" />
       </g>
       <g
-         id="g215">
+         id="g215"
+         style="fill:#55dedc;fill-opacity:1">
         <path
            id="path213"
            d="m 66.6,75.4 c -1.5,1.3 -3.7,1.3 -5.2,0 L 24,43.5 V 85 c 0,2.2 1.8,4 4,4 h 72 c 2.2,0 4,-1.8 4,-4 V 43.4 Z"
            class="st1"
            inkscape:connector-curvature="0"
-           style="fill:#ffffff" />
+           style="fill:#55dedc;fill-opacity:1" />
       </g>
     </g>
   </g>
