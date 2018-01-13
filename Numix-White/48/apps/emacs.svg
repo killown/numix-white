@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="emacs.svg">
   <metadata
      id="metadata49">
@@ -32,14 +32,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="785"
+     inkscape:window-height="434"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-5.5932203"
+     inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     inkscape:window-x="943"
+     inkscape:window-y="387"
+     inkscape:window-maximized="0" />
   <defs
      id="defs4">
     <linearGradient
@@ -111,15 +114,15 @@
   </g>
   <g
      transform="translate(-14.2,0)"
-     style="fill:#a977a9;opacity:1;fill-opacity:1"
+     style="fill:#7f61b7;opacity:1;fill-opacity:1;stroke:#6700ff;stroke-opacity:1;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:0.03779528, 0.03779528000000000;stroke-dashoffset:0"
      id="g37">
     <!-- color: #7f7bc5 -->
     <g
        id="g39"
-       style="fill:#a977a9;fill-opacity:1">
+       style="fill:#7f61b7;fill-opacity:1;stroke:#6700ff;stroke-opacity:1;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:0.03779528, 0.03779528000000000;stroke-dashoffset:0">
       <path
          d="m 46.2 11 -7 0 c 2.131 0.494 7 1.613 7 2.5 0 1.89 -9 -0.5 -11 -0.5 -1 0 -2.997 0.168 -3 1.5 -0.008 3.5 4.702 6.5 8 8.5 -2.297 -0.666 -4.4 -1 -6.4 -1 -2.6 0 -7.6 1 -7.6 4.5 0 3.096 6.268 5.942 8 6.5 3.01 0.97 8 1.495 8 2 0 0.5 -4 1 -9 1 l -3 0 c 2 1 5 1 8 1 l 3 -0.002 c 2 -0.001 7 -0.07 7 -1.798 0 -1.508 -6 -2.781 -9 -3.4 -4.184 -0.863 -7.223 -2.542 -7 -3.8 0.533 -3.01 8 -3 14 -3 -2.617 -2.101 -9 -6 -9 -7.7 0 -0.728 1 -0.895 2 -0.9 4 -0.02 7 0.85 8 0.85 2 0 3 -1.25 3 -2.75 0 -2.5 -3 -3.5 -4 -3.5 z"
-         style="stroke:none;fill-rule:evenodd;fill:#a977a9;fill-opacity:1"
+         style="stroke:#6700ff;fill-rule:evenodd;fill:#7f61b7;fill-opacity:1;stroke-opacity:1;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:0.03779528, 0.03779528000000000;stroke-dashoffset:0"
          id="path41" />
     </g>
   </g>
