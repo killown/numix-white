@@ -11,7 +11,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="zynaddsubfx.svg">
   <metadata
      id="metadata98">
@@ -33,14 +33,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="767"
+     inkscape:window-width="785"
      inkscape:window-height="480"
      id="namedview96"
      showgrid="false"
      inkscape:zoom="4.9166667"
      inkscape:cx="24"
      inkscape:cy="24"
-     inkscape:window-x="57"
+     inkscape:window-x="74"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
@@ -187,22 +187,22 @@
   </g>
   <g
      id="g52"
-     style="fill:#e6e6e6;fill-opacity:1">
+     style="fill:#ececec;fill-opacity:1">
     <path
        d="m 24 1 c 12.703 0 23 10.297 23 23 c 0 12.703 -10.297 23 -23 23 -12.703 0 -23 -10.297 -23 -23 0 -12.703 10.297 -23 23 -23 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path54" />
     <path
        d="m 13 15 l 0 2 l 4 0 l 0 -2 l -4 0 z m 30 0 l 0 2 l 2.912 0 c -0.217 -0.681 -0.463 -1.349 -0.74 -2 l -2.172 0 z m -40 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 10 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 20 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 10 0 l 0 2 l 3.646 0 c -0.119 -0.677 -0.265 -1.345 -0.441 -2 l -3.205 0 z m -40 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 10 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 10 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 3.975 0 c -0.029 -0.67 -0.089 -1.332 -0.174 -1.986 c -0.001 -0.005 -0.001 -0.009 -0.002 -0.014 l -3.799 0 z m -40 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 10 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 3.908 0 c 0 -0.003 0 -0.007 0 -0.01 c 0.057 -0.657 0.092 -1.32 0.092 -1.99 l -4 0 z m -40 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 3.449 0 c 0.001 -0.003 0.001 -0.007 0.002 -0.01 c 0.144 -0.65 0.257 -1.31 0.346 -1.979 c 0.001 -0.004 0.001 -0.008 0.002 -0.012 l -3.799 0 z m -40 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 2.568 0 c 0.001 -0.004 0.002 -0.008 0.004 -0.012 c 0.236 -0.639 0.443 -1.291 0.623 -1.955 c 0.001 -0.003 0.001 -0.005 0.002 -0.008 l -3.197 -0.025 z m -40 3 l 0 0.381 c 0.002 0.003 0.004 0.006 0.006 0.01 c 0.245 0.547 0.505 1.086 0.791 1.609 l 3.203 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 4 0 l 0 -2 l -4 0 z m 5 0 l 0 2 l 1.203 0 c 0.147 -0.27 0.285 -0.544 0.422 -0.82 c 0.028 -0.056 0.059 -0.11 0.086 -0.166 c 0.002 -0.003 0.002 -0.007 0.004 -0.01 c 0.16 -0.33 0.312 -0.665 0.457 -1 l -2.172 0 z"
-       style="fill:#e6e6e6;opacity:0.1;fill-opacity:1"
+       style="fill:#ececec;opacity:0.1;fill-opacity:1"
        id="path56" />
     <path
        d="m 2.088 17 c -0.029 0.092 -0.06 0.184 -0.088 0.277 l 0 1.723 4 0 0 -2 m -4 3 l 0 2 4 0 0 -2 z m 0 3 0 2 4 0 0 -2 z m 0 3 0 2 4 0 0 -2 z m 0 3 0 1.723 c 0.028 0.093 0.058 0.185 0.088 0.277 l 3.912 0 0 -2 m -3.568 3 c 0.253 0.683 0.537 1.35 0.852 2 l 2.717 0 0 -2"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path58" />
     <path
        d="m 42 14 l 0 2 l 3.568 0 c -0.253 -0.683 -0.537 -1.35 -0.852 -2 l -2.717 0 z m 0 3 l 0 2 l 4 0 l 0 -1.723 c -0.028 -0.093 -0.058 -0.185 -0.088 -0.277 l -3.912 0 z m 0 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 0 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 0 3 l 0 2 l 4 0 l 0 -2 l -4 0 z m 0 3 l 0 2 l 3.912 0 c 0.029 -0.092 0.06 -0.184 0.088 -0.277 l 0 -1.723 l -4 0 z m 0 3 l 0 2 l 2.717 0 c 0.315 -0.65 0.598 -1.317 0.852 -2 l -3.568 0 z"
-       style="fill:#e6e6e6;fill-opacity:1"
+       style="fill:#ececec;fill-opacity:1"
        id="path60" />
   </g>
   <g

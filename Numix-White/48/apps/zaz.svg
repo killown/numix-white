@@ -10,7 +10,7 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="zaz.svg">
   <metadata
      id="metadata28">
@@ -34,15 +34,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1863"
-     inkscape:window-height="1021"
+     inkscape:window-width="1846"
+     inkscape:window-height="1025"
      id="namedview24"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-12.101695"
      inkscape:cy="24"
-     inkscape:window-x="57"
-     inkscape:window-y="31"
+     inkscape:window-x="74"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2" />
   <g
@@ -62,7 +62,7 @@
   </g>
   <path
      d="m 12,20 c 1.203,3.988 9.961,4.934 12.004,3.997 C 33,9 41,28 42.817,37.216 c 2.631,-3.74 4.188,-8.298 4.188,-13.219 0,-6.685 -2.853,-12.704 -7.406,-16.906 C 24.854453,-1.8400191 12,8 12,20"
-     style="fill:#b0c6de;fill-opacity:1;stroke:none;fill-rule:evenodd"
+     style="fill:#cccccc;fill-opacity:1;stroke:none;fill-rule:evenodd"
      id="path12" />
   <path
      d="m 24 1 c -8.465 0 -15.851 4.564 -19.844 11.375 -5.504 14.971 17.04 22.352 19.844 11.625 -2.043 0.938 -8.609 -0.855 -9.813 -4.844 -1.262 -9.27 5.977 -12.93 14.625 -13.875 3.857 -0.421 7.48 0.271 10.75 1.781 -4.095 -3.765 -9.56 -6.06 -15.563 -6.06"
@@ -74,7 +74,7 @@
      id="path16" />
   <path
      d="m 4.156 12.375 c -1.999 3.409 -3.156 7.387 -3.156 11.625 c 0 6.701 2.865 12.734 7.438 16.938 3.271 1.511 6.892 2.202 10.75 1.781 8.648 -0.945 14.762 -7.879 13.5 -17.16 -0.084 -0.247 -0.197 -0.481 -0.281 -0.688 -1.692 -2.384 -6.331 -2.741 -8.346 -0.907 0.008 -0.004 -0.027 -0.004 -0.031 0 -0.008 0.004 -0.02 0.027 -0.031 0.031 c -0.734 2.793 -7.719 5.262 -13.406 2.625 -4.466 -2.563 -7.137 -8.03 -6.438 -14.25"
-     style="fill:#f3f275;fill-opacity:1;stroke:none;fill-rule:nonzero"
+     style="fill:#808080;fill-opacity:1;stroke:none;fill-rule:nonzero"
      id="path18" />
   <g
      id="g20">
