@@ -14,8 +14,8 @@
    width="96"
    height="96"
    id="svg2408"
-   sodipodi:docname="user-desktop.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="folder.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,17 +25,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1846"
-     inkscape:window-height="1025"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      id="namedview13031"
      showgrid="false"
      inkscape:zoom="3.4766083"
-     inkscape:cx="37.036521"
-     inkscape:cy="43.922198"
-     inkscape:window-x="74"
-     inkscape:window-y="26"
+     inkscape:cx="-92.510299"
+     inkscape:cy="33.55052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g62472" />
+     inkscape:current-layer="svg2408" />
   <defs
      id="defs2410">
     <linearGradient
@@ -371,7 +371,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>

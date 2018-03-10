@@ -11,7 +11,7 @@
    version="1.1"
    id="svg45"
    sodipodi:docname="distributor-logo-manjaro.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata49">
     <rdf:RDF>
@@ -33,11 +33,11 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-height="993"
      id="namedview47"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="24"
+     inkscape:cx="-41.898305"
      inkscape:cy="24"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -107,17 +107,17 @@
   </g>
   <g
      id="g39"
-     style="fill:#009f00;fill-opacity:1">
+     style="fill:#333333;fill-opacity:1">
     <g
        id="g37"
-       style="fill:#009f00;fill-opacity:1">
+       style="fill:#333333;fill-opacity:1">
       <!-- color: #35bf5c -->
       <g
          id="g35"
-         style="fill:#009f00;fill-opacity:1">
+         style="fill:#333333;fill-opacity:1">
         <path
            d="m 15 12 l 0 7.125 l 0.004 0 l -0.004 2.895 l 5 0 l 0 -3 l 7 0 l 0 -7 l -12 0 m 13 -0.016 l 0 24 l 5 0 l 0 -24 m -12 8 l 0 16 l 6 0 l 0 -16 m -11.996 3 l 0 13 l 5 0 l 0 -13 m -5 0"
-           style="fill:#009f00;fill-opacity:1;stroke:none;fill-rule:evenodd"
+           style="fill:#333333;fill-opacity:1;stroke:none;fill-rule:evenodd"
            id="path33" />
       </g>
     </g>

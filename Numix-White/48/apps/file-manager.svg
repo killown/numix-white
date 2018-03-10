@@ -11,8 +11,8 @@
    viewBox="0 0 48 48"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
-   sodipodi:docname="nautilus-actions.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="file-manager.svg">
   <metadata
      id="metadata41">
     <rdf:RDF>
@@ -33,15 +33,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1846"
-     inkscape:window-height="1025"
+     inkscape:window-width="1920"
+     inkscape:window-height="993"
      id="namedview39"
      showgrid="false"
      inkscape:zoom="13.906433"
      inkscape:cx="18.106998"
      inkscape:cy="24.786738"
-     inkscape:window-x="74"
-     inkscape:window-y="26"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="g4318" />
   <defs
@@ -75,25 +75,6 @@
          offset="1"
          style="stop-color:#70756a;stop-opacity:1;" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(0.79559665,0,0,0.83277957,10.839736,16.307733)"
-       y2="27.0005"
-       x2="60.0005"
-       y1="113"
-       x1="60.0005"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3178"
-       xlink:href="#XMLID_34_"
-       inkscape:collect="always" />
-    <linearGradient
-       y2="32.001999"
-       x2="60"
-       y1="57.0005"
-       x1="60"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3180"
-       xlink:href="#XMLID_35_"
-       inkscape:collect="always" />
     <linearGradient
        y2="-0.333"
        x2="60.0005"
@@ -209,14 +190,6 @@
        id="radialGradient3234"
        xlink:href="#XMLID_54_"
        inkscape:collect="always" />
-    <filter
-       id="filter3709"
-       inkscape:collect="always">
-      <feGaussianBlur
-         id="feGaussianBlur3711"
-         stdDeviation="0.5"
-         inkscape:collect="always" />
-    </filter>
     <linearGradient
        gradientTransform="matrix(0.82653129,0,0,0.83250979,8.9836613,16.327449)"
        y2="24"
@@ -235,16 +208,6 @@
          points="110,116 10,116 6,24 114,24 110,116 "
          id="polygon3779" />
     </clipPath>
-    <linearGradient
-       gradientTransform="matrix(0.84212621,0,0,0.83250979,8.0479654,16.327449)"
-       gradientUnits="userSpaceOnUse"
-       y2="16"
-       x2="72"
-       y1="28"
-       x1="72"
-       id="linearGradient3786"
-       xlink:href="#XMLID_59_"
-       inkscape:collect="always" />
     <filter
        id="filter3804"
        inkscape:collect="always">
@@ -371,17 +334,17 @@
              transform="matrix(0.84212621,0,0,0.83250979,8.0479655,16.327449)"
              id="polygon28"
              points="114,24 110,116 10,116 6,24 "
-             style="fill:#808080;stroke-width:2.79778592;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="fill:#2a2d36;stroke-width:2.79778592;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
           <path
              id="path35"
              d="M 98.788964,39.050108 C 98.638603,38.88605 98.430941,38.792779 98.213749,38.792779 h -79.27643 c -0.217197,0 -0.424848,0.09244 -0.57442,0.257329 -0.150369,0.164057 -0.229929,0.384744 -0.22038,0.612093 l 2.905519,69.953479 c 0.0183,0.44553 0.369156,0.79697 0.794801,0.79697 h 73.465382 c 0.425653,0 0.776516,-0.35144 0.794814,-0.79697 l 2.90552,-69.953479 c 0.0095,-0.227349 -0.06997,-0.448869 -0.219591,-0.612093 z"
-             style="fill:url(#linearGradient3178);stroke-width:2.34259788;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#2a2d36;stroke-width:2.34259788;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
              inkscape:connector-curvature="0" />
           <polygon
              transform="matrix(0.79559665,0,0,0.83277957,10.839736,16.307733)"
              id="polygon42"
              points="109.647,32.017 10.352,32.002 11.438,57 108.562,56.999 "
-             style="fill:url(#linearGradient3180);stroke-width:2.87796987;stroke-miterlimit:4;stroke-dasharray:none" />
+             style="fill:#2a2d36;stroke-width:2.87796987;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
           <polygon
              transform="matrix(0.84212621,0,0,0.83250979,8.0479655,16.327449)"
              id="polygon49"
@@ -735,7 +698,7 @@
              sodipodi:nodetypes="ccccc"
              id="polygon3781"
              d="M 100.68185,38.805213 H 16.469227 l -3.368505,-2.497529 h 90.949628 z"
-             style="fill:url(#linearGradient3786);fill-opacity:1;stroke-width:2.34259788;stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#2a2d36;fill-opacity:1;stroke-width:2.34259788;stroke-miterlimit:4;stroke-dasharray:none"
              inkscape:connector-curvature="0" />
           <path
              transform="matrix(0.89826796,0,0,0.88801044,11.41647,13.194104)"
@@ -743,7 +706,7 @@
              sodipodi:nodetypes="cccc"
              id="polygon3814"
              d="m 103.125,26.0285 -15,-22.5 h -71.25 l -15,22.5"
-             style="fill:#808080;stroke:url(#linearGradient4408);stroke-width:2.6229243;stroke-opacity:1;filter:url(#filter4212);stroke-miterlimit:4;stroke-dasharray:none"
+             style="fill:#2a2d36;stroke:url(#linearGradient4408);stroke-width:2.6229243;stroke-opacity:1;filter:url(#filter4212);stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
              inkscape:connector-curvature="0" />
         </g>
       </g>

@@ -12,7 +12,7 @@
    version="1.1"
    id="svg51"
    sodipodi:docname="chrome-hjpceadhnpnpdelkidbjdmoodafopfkp-Default.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <metadata
      id="metadata55">
     <rdf:RDF>
@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,10 +39,10 @@
      id="namedview53"
      showgrid="false"
      inkscape:zoom="3.4766084"
-     inkscape:cx="29.526762"
-     inkscape:cy="25.365208"
+     inkscape:cx="-74.99999"
+     inkscape:cy="74.209064"
      inkscape:window-x="74"
-     inkscape:window-y="26"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="calendar" />
   <defs
@@ -3026,15 +3026,24 @@
     <g
        id="calendar"
        transform="matrix(0.0475789,0,0,0.04335361,5.1437559,6.7042945)">
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:66.57446289;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.02010049"
+         id="rect1291"
+         width="529.88574"
+         height="392.57745"
+         x="109.52678"
+         y="269.16168"
+         ry="170.04466"
+         rx="0" />
       <g
          id="g9358"
          transform="matrix(1.6336608,0,0,1.5041538,-256.48705,-195.02688)"
-         style="fill:#0098f4;fill-opacity:1">
+         style="fill:#808080;fill-opacity:1">
         <path
            id="path9356"
            d="m 251,569.6 v -64.3 h 60.9 v 64.3 z m 74.8,0 v -64.3 h 67.8 v 64.3 z M 251,491.4 v -71.3 h 60.9 v 71.3 z m 74.8,0 v -71.3 h 67.8 v 71.3 z M 251,406.1 v -62.6 h 60.9 v 64.3 H 251 Z m 156.5,163.5 v -64.3 h 67.8 v 64.3 z M 325.8,406.1 v -62.6 h 67.8 v 64.3 h -67.8 z m 161.7,163.5 v -64.3 h 60.9 v 64.3 z m -80,-78.2 v -71.3 h 67.8 v 71.3 z M 332.8,300 c 0,3.5 -3.5,7 -7,7 h -13.9 c -3.5,0 -7,-3.5 -7,-7 v -64.3 c 0,-3.5 3.5,-7 7,-7 h 13.9 c 3.5,0 7,3.5 7,7 z m 154.7,191.4 v -71.3 h 60.9 v 71.3 z m -80,-85.3 v -62.6 h 67.8 v 64.3 h -67.8 z m 80,0 v -62.6 h 60.9 v 64.3 h -60.9 z m 7,-106.1 c 0,3.5 -3.5,7 -7,7 h -13.9 c -3.5,0 -7,-3.5 -7,-7 v -64.3 c 0,-3.5 3.5,-7 7,-7 h 13.9 c 3.5,0 7,3.5 7,7 z m 81.7,-13.9 c 0,-15.7 -12.2,-27.8 -27.8,-27.8 h -27.8 v -20.9 c 0,-19.1 -15.7,-34.8 -33,-34.8 h -13.9 c -19.1,0 -33,15.7 -33,34.8 v 20.9 H 359 v -20.9 c 0,-19.1 -15.7,-34.8 -33,-34.8 h -13.9 c -19.1,0 -33,15.7 -33,34.8 v 20.9 h -27.8 c -15.7,0 -27.8,12.2 -27.8,27.8 v 283.5 c 0,15.7 12.2,27.8 27.8,27.8 h 297.4 c 15.7,0 27.8,-12.2 27.8,-27.8 V 286.1 Z"
            inkscape:connector-curvature="0"
-           style="fill:#0098f4;fill-opacity:1" />
+           style="fill:#808080;fill-opacity:1" />
       </g>
     </g>
   </g>

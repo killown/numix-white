@@ -14,8 +14,8 @@
    width="96"
    height="96"
    id="svg2408"
-   sodipodi:docname="folder-downloads.svg"
-   inkscape:version="0.92.1 r">
+   sodipodi:docname="folder_download.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,15 +25,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1846"
-     inkscape:window-height="1025"
+     inkscape:window-width="1920"
+     inkscape:window-height="1020"
      id="namedview13031"
      showgrid="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="-82.678507"
-     inkscape:cy="39.341226"
-     inkscape:window-x="74"
-     inkscape:window-y="26"
+     inkscape:cx="-172.57681"
+     inkscape:cy="39.341225"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2408" />
   <defs
@@ -318,7 +318,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
