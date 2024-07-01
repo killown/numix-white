@@ -1,9 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=Master PDF Editor
-GenericName=PDF Editor
-Comment=Edit your PDF and XPS files
-Exec=/opt/master-pdf-editor-4/masterpdfeditor4 %f
-Icon=masterpdfeditor.svg
-Categories=Office;Publishing;
-MimeType=application/pdf
